@@ -1,0 +1,16 @@
+body {background-color: #7ebdb4
+  }
+
+  hr{
+    background-color: #7ebdb4;
+    border-style: inset ;
+    height: 5px;
+    noshade;
+  }
+
+  h1{font-family:courier; color:white; }
+  h3{font-family:courier; color:white;}
+  p{font-family:courier;}
+  table{font-family:courier;}
+  ol{font-family:courier;}
+  ul{font-family:courier;}
